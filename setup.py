@@ -12,7 +12,7 @@ if sys.version_info < (3, 5):
 
 setup(
     name='pygql',
-    version='0.1.2',
+    version='0.1.4',
     description='GraphQL client for Python',
     long_description=open('README.rst').read(),
     url='https://github.com/itolosa/pygql',
